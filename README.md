@@ -1,2 +1,3 @@
-# meu_portfolio
-Primeiro portfolio desenvolvido com oq foi estudado nas aulas da Alura
+# Portfólio Bem vindo ao meu primeiro projeto.
+![image](https://i.imgur.com/1mgnDsg.png)
+
